@@ -7,7 +7,7 @@ The initial high-fidelity mock-up and code was taken from this tutorial : https:
 
 Fully responsive for mobile and desktop usage. 
 
-![webintro]([https://github.com/Arthwr/manage-landing-page/assets/132221421/1f0335aa-c021-4b4b-801e-103b8eda0351](https://github.com/Arthwr/bank-modern-app/assets/132221421/084ed627-6c27-4856-98e9-a325f5e24bd0))
+![arthwr github io_bank-modern-app_](https://github.com/Arthwr/bank-modern-app/assets/132221421/e4f8b8a9-6e0a-405c-a52d-afc89afef659)
 
 ## Technologies
 
